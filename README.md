@@ -1,0 +1,1 @@
+This repository demonstrates a common issue with the CSS `calc()` function. The `bug.css` file shows how incorrect usage can lead to unexpected results. The `solution.css` file provides a fix.
